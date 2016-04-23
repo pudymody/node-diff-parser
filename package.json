@@ -2,17 +2,29 @@
   "name": "diff-parser",
   "description": "Diff Parser",
   "author": "Hao Hong <agate.hao@gmail.com>",
-  "version": "0.0.1",
-  "keywords": [ "diff", "parser", "render" ],
-  "licenses": [ { "type": "MIT" } ],
-  "engines": { "node": ">=0.10.0" },
-  "main" : "index.js",
+  "version": "0.0.2",
+  "keywords": [
+    "diff",
+    "parser",
+    "render"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "index.js",
   "dependencies": {
     "jade": ">=0.34.1",
     "coffee-script": ">=1.6.3"
   },
-  "bin": { "diff2html": "./bin/diff2html" },
-  "repository":   {
+  "bin": {
+    "diff2html": "./bin/diff2html"
+  },
+  "repository": {
     "type": "git",
     "url": "git://github.com/pudymody/node-diff-parser.git"
   }
