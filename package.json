@@ -1,6 +1,6 @@
 {
-  "name": "diff-parser",
-  "description": "Diff Parser",
+  "name": "diff-parser-updated",
+  "description": "Forked and maintained version of Hao Hong's Diff Parser",
   "author": "Hao Hong <agate.hao@gmail.com>",
   "version": "0.0.2",
   "keywords": [
