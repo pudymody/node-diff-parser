@@ -14,6 +14,6 @@
   "bin": { "diff2html": "./bin/diff2html" },
   "repository":   {
     "type": "git",
-    "url": "git://github.com/agate/node-diff-parser.git"
+    "url": "git://github.com/pudymody/node-diff-parser.git"
   }
 }
